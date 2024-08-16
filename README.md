@@ -1,0 +1,2 @@
+# pneumonia_models
+Курсовая
